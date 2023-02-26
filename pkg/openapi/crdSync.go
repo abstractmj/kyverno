@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/googleapis/gnostic/compiler"
-	openapiv2 "github.com/googleapis/gnostic/openapiv2"
+	"github.com/google/gnostic/compiler"
+	openapiv2 "github.com/google/gnostic/openapiv2"
 	client "github.com/kyverno/kyverno/pkg/dclient"
 	util "github.com/kyverno/kyverno/pkg/utils"
 	"gopkg.in/yaml.v3"
